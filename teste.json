@@ -1,0 +1,13 @@
+{
+  "name": "Teste SrCheesee",
+  "downloads": [
+    {
+      "title": "Arquivo pequeno de teste",
+      "fileSize": "2 MB",
+      "uris": [
+        "https://cdn.jsdelivr.net/gh/SrCheesee/Fonte-Hydra-SrCheesee@main/teste.zip"
+      ],
+      "uploadDate": "2025-11-11"
+    }
+  ]
+}
